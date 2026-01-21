@@ -24,7 +24,7 @@ A comprehensive learning plan for mastering Elastic (SIEM and Elasticsearch), LL
 - Complete Elastic Security for SIEM course
 - Complete Elasticsearch Engineers course
 - Complete Elastic Certifed SIEM and Elastic Certified Engineer certifications.
-- Attended Elastic Public Sector Summit "26 March 19
+- Attended Elastic Public Sector Summit "26 March 19, 2026
 
 ### Phase 2: LLM Fundamentals (March - April 2026)
 - Complete LLM Engineering course with Ed Donner
