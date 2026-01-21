@@ -4,8 +4,8 @@ A comprehensive learning plan for mastering Elastic (SIEM and Elasticsearch), LL
 
 ## Learning Path
 
-| Course/Certification | Duration | Completion Target | Description | Link | Notes |
-|---------------------|----------|------------------|-------------|------|-------|
+| Course/Certification | Duration | Completion Target | Description | Link | Notes | Comments |
+|---------------------|----------|------------------|-------------|------|-------|-------- |
 | **Complete Elastic Tranining** | 8 weeks | February 28, 2026 | Gain the skills to address any use case through on-demand leaning, interactive labs, comprehensive certification program | [Elastic Course](https://www.elastic.co/training/) | Manage your clusters and build custom search applications using Elasticsearch and Kibana. Investigate threats and analyze security data using Elastic security for SIEM|
 | **Complete LLM Engineering Course with Ed Donner** | 8 weeks | March 30, 2026 | Comprehensive Large Language Model (LLM) engineering fundamentals and practical applications | [Udemy Course](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models) | Foundation for LLM engineering skills |
 | **MCP For Beginners Crash Course** | 3 days | April 10, 2026 | Quick introduction to Model Context Protocol basics | [KodeKloud Course](https://learn.kodekloud.com/user/courses/crash-course-mcp-for-beginners) | Essential for understanding MCP architecture |
