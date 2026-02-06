@@ -1,12 +1,16 @@
-# Elastic Stack/LLM/AI Engineering Learning Roadmap 2025-2026
+# My Career and Growth 2026
+
+My career objective is to strengthen my role as a Technical Support Engineer by supporting AWS-based environments and Elastic Stack deployments, resolving complex incidents, optimizing observability and security workflows, and collaborating closely with engineering and operations teams to ensure system reliability and customer success.
+
+# Elastic Stack/LLM/AI Engineering Learning Roadmap 2026
 
 A comprehensive learning plan for mastering Elastic (SIEM and Elasticsearch), LLM  engineering, MLOps, and AWS Machine Learning certifications.
 
 ## Learning Path
 
-| Course/Certification | Duration | Completion Target | Description | Link | Notes | Comments |
+| Course/Certification | Duration | Completion Target | Description | Link | Notes | Comments|
 |---------------------|----------|------------------|-------------|------|-------|-------- |
-| **Complete Elastic Tranining** | 8 weeks | February 28, 2026 | Gain the skills to address any use case through on-demand leaning, interactive labs, comprehensive certification program | [Elastic Course](https://www.elastic.co/training/) | Manage your clusters and build custom search applications using Elasticsearch and Kibana. Investigate threats and analyze security data using Elastic security for SIEM|
+| **Complete Elastic Tranining** | 8 weeks | February 28, 2026 | Gain the skills to address any use case through on-demand leaning, interactive labs, comprehensive certification program | [Elastic Course](https://www.elastic.co/training/) | Shadow a DBaaS teammate to gain hands-on understanding of the SAML certificate rotation process, including how SAML metadata is generated, updated, and validated between Identity Providers (IdP) and Service Providers (SP). By the end of the learning period, I will be able to explain the certificate lifecycle, identify key metadata elements, understand the impact of rotations on authentication flows, and assist with or independently support SAML rotation activities and post-rotation validation.| Key Outcome:  Understand the purpose and structure of SAML metadata. 2. Learn the steps involved in SAML certificate rotation and renewal.    3. Assist with updating and validating the IDP and SP configurations. 4. Perform post-rotation testing and troubleshootiing to ensure successful authentication. Success Criteria: Ability to explain the SAML rotation process end-to-end. Ability to independently review and validate SAML metadata. Ability to support or execute a SAML rotation under supervision |
 | **Complete LLM Engineering Course with Ed Donner** | 8 weeks | March 30, 2026 | Comprehensive Large Language Model (LLM) engineering fundamentals and practical applications | [Udemy Course](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models) | Foundation for LLM engineering skills |
 | **MCP For Beginners Crash Course** | 3 days | April 10, 2026 | Quick introduction to Model Context Protocol basics | [KodeKloud Course](https://learn.kodekloud.com/user/courses/crash-course-mcp-for-beginners) | Essential for understanding MCP architecture |
 | **AI Engineer MLOps Track: Deploy Gen AI & Agentic AI at Scale** | 4 weeks | April 30, 2026 | Production deployment of generative AI and agentic AI systems | [Udemy Course](https://www.udemy.com/course/generative-and-agentic-ai-in-production/learn/lecture/52441427) | Focus on scaling and production deployment |
